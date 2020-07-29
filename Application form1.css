@@ -1,0 +1,22 @@
+table{
+      background-color: #666;
+      color: #c7b214;
+      margin: auto;
+      margin-top: 150px;
+}
+tr.s1up{
+      background-color: Yellow;
+      color: black;
+      padding-left: 200px;
+      text-align: center;     
+}
+body{
+      background-image: url(images_029.jpg);
+      background-size: cover;
+}
+.tts{
+      background-color: green;
+}
+#tto{
+      background-color: red;
+}
